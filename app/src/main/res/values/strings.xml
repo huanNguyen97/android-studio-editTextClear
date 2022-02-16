@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EditText</string>
+
+    <!-- Setup in MainActivity -->
+    <string name="name">Name</string>
+    <string name="password">Password(0-9)</string>
+    <string name="email">E-mail</string>
+    <string name="date">Date</string>
+    <string name="contact_number">Contact Number</string>
+    <string name="submit">Submit</string>
+    <!-- End main of Activity -->
+</resources>
